@@ -5,5 +5,11 @@
   "main": "index.js",
   "repository": "git@github.com:ahmedelgabri/prettier-config.git",
   "author": "Ahmed El Gabri <ahmed@gabri.me> (https://gabri.me)",
-  "license": "MIT"
+  "license": "MIT",
+  "scripts": {
+    "release": "np"
+  },
+  "devDependencies": {
+    "np": "^6.3.2"
+  }
 }
