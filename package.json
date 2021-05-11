@@ -10,6 +10,6 @@
     "release": "np"
   },
   "devDependencies": {
-    "np": "^6.3.2"
+    "np": "^7.5.0"
   }
 }
